@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @425megs
+- 👋 Hi, I’m Megan!
 - 👀 I’m interested in roller blading, binge watching shows with my dogs and eating too much Thai food.
-- 🌱 I’m currently learning everything! I am switching from the Sales side of Tech to the Development side. I am currently enrolled at the University of Washington in their Software Engineering Bootcamp.
+- 🌱 Front-End Developer coming from the Sales side of Tech to the Development side.
